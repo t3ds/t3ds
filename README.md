@@ -6,7 +6,7 @@
    2. I'm also learning Microsoft Power Bi to create reports and visualizations
    
 - 💞️ I’m looking to collaborate on anything really
-- 📫 How to reach me on [My Twitter](https://twitter.com/shivam_code) or [My LinkedIn](https://linkedin.com/in/shivamkotak)
+- 📫 You can always reach me on [My Twitter](https://twitter.com/shivam_code) or [My LinkedIn](https://linkedin.com/in/shivamkotak)
 
 <!---
 t3ds/t3ds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
